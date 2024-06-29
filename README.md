@@ -4,5 +4,5 @@ Este repositório contém um notebook em Python de análise de dados e um dashbo
 
 ## Conteúdos
 
-- Notebook de Análise de Dados em Python (`data_analysis.ipynb`)
-- Link para o Dashboard no Google Data Studio: [Acesse o Dashboard](https://datastudio.google.com/reporting/example-link)
+- Notebook de Análise de Dados em Python 
+- Dashboard no Google Data Studio
