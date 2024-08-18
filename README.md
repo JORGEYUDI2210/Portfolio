@@ -6,3 +6,4 @@ Este repositório contém um notebook em Python de análise de dados e um dashbo
 
 - Notebook de Análise de Dados em Python 
 - Dashboard no Google Data Studio (https://lookerstudio.google.com/s/mkbqQzNuaio)
+  
